@@ -1,0 +1,9 @@
+This is the help file to make you easier comprehend how to operate the SSEM.
+
+When you started, please write in this format:
+
+./SSEM procedure (enter all|single here) file (enter filename here) store (enter store size here) register (enter register size here)
+
+Here is a possible enter: ./SSEM procedure all file Example.txt store 64 register 64
+
+You can also enter: ./SSEM -h to see this help file.
